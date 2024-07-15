@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'LilitaOne';
+    src: url('./fonts/LilitaOne.ttf') format('ttf'),
+    url('./fonts/LilitaOne.ttf') format('ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+  
+html {
+    overflow: hidden;
+}
+  
+body {
+    padding: 0;
+    margin: 0;
+    color: red;
+    font-family: 'LilitaOne';
+    /* background: url('./icon.png'); */
+}
